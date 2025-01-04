@@ -1,6 +1,6 @@
 
 #list
-# string is inmutabale(means  change is allwod)
+# string is inmutabale(means  change is not allwod)
 mark="pradip"
 print(mark)
 #mark[0]="y"
